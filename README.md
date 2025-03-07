@@ -5,6 +5,12 @@
 git clone https://github.com/MachuEngine/MobileNet_v1.git
 ```
 
+### Blog 
+아래 Velog에 모델링 구현 및 추론 과정에 대해 조금 더 세부적인 내용을 작성해두었습니다. 
+```
+https://velog.io/@machu8/MobileNetv1
+```
+
 ---
 
 ### Training 과정
@@ -82,3 +88,8 @@ Top 5 예측 결과:
 클래스 0: 확률 0.0001
 클래스 3: 확률 0.0001
 ```
+
+---
+
+### Reference
+MobileNets_Efficient Convolutional Neural Networks for Mobile Vision Applications (2018)
